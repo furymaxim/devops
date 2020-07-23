@@ -19,7 +19,7 @@
 							"\r",
 							"pm.test(\"Value check\", function() {\r",
 							"    var jsonData = pm.response.json();\r",
-							"    pm.expect(jsonData.login).to.eql(\"lolkek111\");\r",
+							"    pm.expect(jsonData.login).to.eql(\"lolkek1111\");\r",
 							"});"
 						],
 						"type": "text/javascript"
@@ -31,7 +31,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n\"Login\": \"lolkek111\",\r\n\"NativeName\": \"Fury Maximec3\",\r\n\"Password\": \"strongPw\",\r\n\"ConfirmPassword\": \"strongPw\"\r\n}",
+					"raw": "{\r\n\"Login\": \"lolkek1111\",\r\n\"NativeName\": \"Fury Maximec4\",\r\n\"Password\": \"strongPw\",\r\n\"ConfirmPassword\": \"strongPw\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
